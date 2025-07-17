@@ -1,11 +1,4 @@
---                                                                                                                 
-,--.  ,--.              ,--.                                ,--.   ,--.,---.      ,--.   ,--.,------.  ,------. 
-|  '--'  |,---.  ,--,--.|  |,--.--. ,---.,--.,--. ,---.      \  `.'  /'   .-'     |   `.'   ||  .-.  \ |  .---' 
-|  .--.  | .-. :' ,-.  ||  ||  .--'| .-. |  ||  |(  .-'       \     / `.  `-.     |  |'.'|  ||  |  \  :|  `--,  
-|  |  |  \   --.\ '-'  ||  ||  |   ' '-' '  ''  '.-'  `)       \   /  .-'    |    |  |   |  ||  '--'  /|  |`    
-`--'  `--'`----' `--`--'`--'`--'    `---' `----' `----'         `-'   `-----'     `--'   `--'`-------' `--'     
-                                                                                                                
--- Hi it's me YouTube: Shizoscript.  if you modify this script please be careful ^^
+-- Made by Healrous GToH Team                                                                                                                                                                                                                  -- Hi it's me YouTube: Shizoscript.  if you modify this script please be careful ^^
 -- Position Logger GUI by Healrous Com Team General donations Script (Critical Code Hard to modify)
 -- ============= CRITICAL SYSTEM COMPONENTS - DO NOT REMOVE =============
 local CoreServices = {
